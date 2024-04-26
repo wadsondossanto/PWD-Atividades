@@ -8,29 +8,25 @@
 ### Passo 2: Criar um Novo Arquivo
 - Clique em "Novo" no canto superior esquerdo da tela para criar um novo arquivo em branco.
 
-### Passo 3: Configurar o Tamanho da Tela
-- No painel direito, ao lado do nome do arquivo, clique em "Configurações".
-- Selecione "Tela" e defina o tamanho desejado para o cartão de visita. Geralmente, os cartões de visita têm dimensões de 3,5 x 2 polegadas (ou 8,89 x 5,08 centímetros). Insira essas dimensões.
-
-### Passo 4: Adicionar Fundo
+### Passo 3: Adicionar Fundo
 - Selecione a ferramenta Retângulo na barra de ferramentas à esquerda.
-- Desenhe um retângulo que cubra toda a área do cartão de visita.
+- Desenhe um retângulo que seja 350 de largura por 200 de altura.
 - Escolha uma cor para o fundo do cartão de visita no painel de propriedades à direita.
 
-### Passo 5: Adicionar Texto
+### Passo 4: Adicionar Texto
 - Selecione a ferramenta Texto na barra de ferramentas.
 - Clique no cartão de visita e comece a digitar suas informações, como nome, cargo, endereço de e-mail, número de telefone, etc.
 - Formate o texto selecionando-o e ajustando as propriedades de fonte no painel de propriedades.
 
-### Passo 6: Adicionar Logotipo (Opcional)
+### Passo 5: Adicionar Logotipo (Opcional)
 - Se você tiver um logotipo, clique no botão "Importar" na barra de ferramentas e selecione o arquivo do logotipo em seu computador.
 - Posicione o logotipo no cartão de visita e ajuste seu tamanho conforme necessário.
 
-### Passo 7: Revisar e Ajustar
+### Passo 6: Revisar e Ajustar
 - Revise o design do cartão de visita para garantir que todas as informações estejam legíveis e bem organizadas.
 - Faça ajustes de layout, cor e fonte conforme necessário.
 
-### Passo 8: Salvar e Exportar
+### Passo 7:  Salvar e Exportar
 - Quando estiver satisfeito com o design, clique em "Arquivo" no canto superior esquerdo e selecione "Salvar".
 - Para exportar o cartão de visita como um arquivo de imagem, clique em "Arquivo" > "Exportar" > "Selecionar".
 - Escolha o formato de arquivo desejado (PNG, JPG, etc.) e defina a qualidade da exportação.
