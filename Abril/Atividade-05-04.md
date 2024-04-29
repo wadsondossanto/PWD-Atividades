@@ -1,6 +1,19 @@
-# Atividade Prática
-Crie uma página HTML simples, que tenha as seguintes, configurações de CSS: 
-* Modifique a cor de fundo para uma escura;
-* Altere a cor das letras dos paragrafos para uma cor mais clara;
-* Mude a fonte das letras para uma diferente.
-Obs: Você não precisa criar um arquivo .css separado pode usar a tag style para isso. 
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Simples</title>
+    <style>
+        body {
+            background-color: #333; /* Cor de fundo escura */
+            color: #eee; /* Cor do texto mais clara */
+            font-family: Arial, sans-serif; /* Fonte diferente */
+        }
+    </style>
+</head>
+<body>
+    <h1>Título</h1>
+    <p>Este é um parágrafo.</p>
+    <p>Este é outro parágrafo.</p>
+</body>
+</html>

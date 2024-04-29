@@ -1,6 +1,17 @@
-# Atividade 12/04/2024
-
-Utilize o código html do arquivo Exercicio-12-04 e faça as seguintes alterações utilizando CSS:
- * Altere as margens do card para 20px;
- * Coloque uma borda na imagem com um raio de 8px;
- * A margem superior do h2 tem que estar a 10px.
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade 12/04/2024</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="card">
+        <img src="imagem.jpg" alt="Imagem" class="card-img">
+        <div class="card-content">
+            <h2>Título do Card</h2>
+            <p>Conteúdo do Card</p>
+        </div>
+    </div>
+</body>
+</html>

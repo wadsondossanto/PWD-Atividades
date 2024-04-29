@@ -1,0 +1,17 @@
+.card {
+    margin: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+}
+.card-img {
+    width: 100%;
+}
+
+.card-content {
+    padding: 20px; 
+}
+
+.card-content h2 {
+    margin-top: 10px;
+}
